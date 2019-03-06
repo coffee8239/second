@@ -1,0 +1,50 @@
+.header-logo{
+  width:1200px;
+  height:600px;
+  background-image:url("https://www.pakutaso.com/shared/img/thumb/031ELLY18420_TP_V.jpg")
+
+}
+
+.contents h1{
+  padding-bottom:30px;
+}
+
+.contents-item p{
+  font-size:18px;
+}
+
+.container{
+margin-right: auto;
+margin-left: auto;
+text-align:center;
+font-size:40px;
+color:pink;
+}
+
+h1{
+  color:pink;
+  margin-top:0px;
+  text-align:center;
+}
+
+.description p{
+   font-size:35px;
+   margin:0 auto;
+ }
+
+.description img{
+  padding-left:300px;
+  border-bottom:10px solid #eee;
+}
+/*contents*/
+.contents-item{
+float:left;
+}
+
+.footer h2{
+border-top:3px solid black;
+}
+
+.back{
+color:red;
+}
